@@ -1,0 +1,14 @@
+C:\Users\NNaofal\OneDrive\Documents\TUGAS KULIAH\Pemrograman\P5_2_1204036\P5_2_XXXXXXX_TestClock\bin\Debug\P5_2_XXXXXXX_TestClock.exe.config
+C:\Users\NNaofal\OneDrive\Documents\TUGAS KULIAH\Pemrograman\P5_2_1204036\P5_2_XXXXXXX_TestClock\bin\Debug\P5_2_XXXXXXX_TestClock.exe
+C:\Users\NNaofal\OneDrive\Documents\TUGAS KULIAH\Pemrograman\P5_2_1204036\P5_2_XXXXXXX_TestClock\bin\Debug\P5_2_XXXXXXX_TestClock.pdb
+C:\Users\NNaofal\OneDrive\Documents\TUGAS KULIAH\Pemrograman\P5_2_1204036\P5_2_XXXXXXX_TestClock\bin\Debug\P5_2_1204036.dll
+C:\Users\NNaofal\OneDrive\Documents\TUGAS KULIAH\Pemrograman\P5_2_1204036\P5_2_XXXXXXX_TestClock\bin\Debug\P5_2_1204036.pdb
+C:\Users\NNaofal\OneDrive\Documents\TUGAS KULIAH\Pemrograman\P5_2_1204036\P5_2_XXXXXXX_TestClock\obj\Debug\P5_2_1204036_TestClock.csproj.AssemblyReference.cache
+C:\Users\NNaofal\OneDrive\Documents\TUGAS KULIAH\Pemrograman\P5_2_1204036\P5_2_XXXXXXX_TestClock\obj\Debug\P5_2_1204036_TestClock.csproj.SuggestedBindingRedirects.cache
+C:\Users\NNaofal\OneDrive\Documents\TUGAS KULIAH\Pemrograman\P5_2_1204036\P5_2_XXXXXXX_TestClock\obj\Debug\P5_2_XXXXXXX_TestClock.Form1.resources
+C:\Users\NNaofal\OneDrive\Documents\TUGAS KULIAH\Pemrograman\P5_2_1204036\P5_2_XXXXXXX_TestClock\obj\Debug\P5_2_XXXXXXX_TestClock.Properties.Resources.resources
+C:\Users\NNaofal\OneDrive\Documents\TUGAS KULIAH\Pemrograman\P5_2_1204036\P5_2_XXXXXXX_TestClock\obj\Debug\P5_2_1204036_TestClock.csproj.GenerateResource.cache
+C:\Users\NNaofal\OneDrive\Documents\TUGAS KULIAH\Pemrograman\P5_2_1204036\P5_2_XXXXXXX_TestClock\obj\Debug\P5_2_1204036_TestClock.csproj.CoreCompileInputs.cache
+C:\Users\NNaofal\OneDrive\Documents\TUGAS KULIAH\Pemrograman\P5_2_1204036\P5_2_XXXXXXX_TestClock\obj\Debug\P5_2_1204036_TestClock.csproj.CopyComplete
+C:\Users\NNaofal\OneDrive\Documents\TUGAS KULIAH\Pemrograman\P5_2_1204036\P5_2_XXXXXXX_TestClock\obj\Debug\P5_2_XXXXXXX_TestClock.exe
+C:\Users\NNaofal\OneDrive\Documents\TUGAS KULIAH\Pemrograman\P5_2_1204036\P5_2_XXXXXXX_TestClock\obj\Debug\P5_2_XXXXXXX_TestClock.pdb
